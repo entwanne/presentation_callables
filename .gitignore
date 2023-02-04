@@ -1,2 +1,4 @@
 *~
-*.py[oc]
+1;2802;0c*.py[oc]
+/.ipynb_checkpoints
+/pres.ipynb
