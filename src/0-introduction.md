@@ -7,4 +7,10 @@
 
 ## Devenir incollable sur les callables !
 
+* Comprendre ce que sont les callables au-delà des fonctions
+* Découvrir ce qu'il se passe lors d'un appel
+* Petit tour du côté des décorateurs
+
+---
+
 * <https://github.com/entwanne/presentation_callables>
