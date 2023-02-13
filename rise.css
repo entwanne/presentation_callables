@@ -22,6 +22,9 @@ This will always be an empty file in IPython
 
 #notebook {
     background-color: #F7F7F7;
+    background-image: linear-gradient(rgba(247, 247, 247, 0.8), rgba(247, 247, 247, 0.8)), url("img/background.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #notebook .text_cell h1, #notebook .text_cell h1 * {
