@@ -5,6 +5,10 @@
 
 <div align="right"><img src="img/cc_by_sa.svg" style="width: 5em;" /></div>
 
+##  
+
+<center><img src="img/logos.svg" style="width: 30em;" /></center>
+
 ## Devenir incollable sur les callables !
 
 * Comprendre ce que sont les callables au-delà des fonctions
